@@ -12,7 +12,10 @@
     ],
     "minimum-stability": "stable",
     "bin": [
-        "bin/wkhtmltopdf-amd64"
+        "bin/wkhtmltopdf-amd64",
+        "bin/wkhtmltopdf-arm64",
+        "bin/wkhtmltopdf-arm64-wrapper",
+        "bin/wkhtmltoimage-arm64"
     ],
     "require": {
     },
